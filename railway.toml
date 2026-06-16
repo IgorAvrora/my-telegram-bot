@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python bot_v5_budget.py"
